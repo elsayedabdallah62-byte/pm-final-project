@@ -6,6 +6,6 @@
 
 ## Responses
 
-- **Feature with no strategic answer (why is this a 12-week priority?):** _(not filled in)_
-- **Feature that looks "correct" but has zero strategic weight:** _(not filled in)_
-- **V3 vs your Step 1 baseline — what changed, and was it your PM knowledge that forced usefulness?:** _(not filled in)_
+- **Feature with no strategic answer (why is this a 12-week priority?):** _(Social sharing of daily water intake.)_
+- **Feature that looks "correct" but has zero strategic weight:** _(Gamification with badges and rewards for achieving daily water intake goals.)_
+- **V3 vs your Step 1 baseline — what changed, and was it your PM knowledge that forced usefulness?:** _(V3 is more strategic and actionable than V1. While V1 focuses on generic features, V3 connects user needs, pain points, feature prioritization, monetization, and retention risks. The AI did not become smarter; the PM's strategic knowledge and clear instructions made the output more useful for decision-making.)_
