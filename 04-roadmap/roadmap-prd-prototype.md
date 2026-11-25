@@ -40,3 +40,5 @@
 - **B7 Contextual AI ETA Display**, Improves ETA visibility but does not directly address the coordinator's core workflow friction.
 - **B8 Fleet Analytics Manager View**, Serves management reporting needs rather than the frontline coordinator's primary pain point.
 - **B9 Compliance Audit Trail Export**, Supports regulatory audits but does not directly reduce daily dispatch workflow time.
+
+- Prototype/roadmap screenshot link (paste into your deliverables): https://github.com/elsayedabdallah62-byte/pm-final-project/blob/main/04-roadmap/RouteLogic_Roadmap_Screenshot.png
