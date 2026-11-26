@@ -1,14 +1,17 @@
-# PRD & Prototype Sprint
+# PRD & Prototype Sprint (Module 4)
 
-> **Module 4 · Lab 2.** Repo file `04-roadmap/prd-and-prototype.md` — part of your submission.
-> Do the lab in the **Module 4 · Exercise 2 Guide** (linked from the Module 4 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
-> It deepens the top feature from your `roadmap-prd-prototype.md` and feeds the **Roadmap, PRD & Prototype** slide of your Module 6 deck.
+## Pick & scope with MoSCoW
+- **The “Now” feature I’m scoping (name + one-line core description):** B1 – One-Click Compliance Checklist: A smart, pre-filled compliance checklist that enables frontline fleet coordinators to review, validate, and submit daily compliance requirements quickly while maintaining checklist accuracy.
+- **My finalized Must-Haves (after overriding the AI):** - Pre-filled daily compliance checklist using available data.
+- Review and edit checklist information before submission.
+- Validate all mandatory fields and highlight missing or invalid information.
+- One-click submission after successful validation and user verification.
+- Display submission confirmation and update the dashboard compliance status.
+- **What I demoted from Must → Should/Won’t, and why:** I moved draft saving and checklist history to Should-Have because they are not essential to the core compliance workflow. I excluded external integrations, PDF exports, and advanced AI recommendations to reduce engineering complexity and focus on the four-week pilot.
 
-## Responses
+## Generate your Simplified PRD
+- **One thing my PRD makes explicit that a vague brief would have missed:** My PRD explicitly defines that modifying any checklist field after user verification must automatically reset the verification checkbox and disable submission until the user confirms the updated information. This protects compliance accuracy while reducing manual effort.
 
-- **The "Now" feature I'm scoping (name + one-line core description):** _(not filled in)_
-- **My finalized Must-Haves (after overriding the AI):** _(not filled in)_
-- **What I demoted from Must → Should/Won't, and why:** _(not filled in)_
-- **One thing my PRD makes explicit that a vague brief would have missed:** _(not filled in)_
-- **Where the prototype revealed a gap in my PRD logic (what I updated):** _(not filled in)_
-- **My shareable prototype URL:** _(not filled in)_
+## Prompt-to-prototype sprint
+- **Where did the prototype reveal a gap in my PRD logic? (what I had to update):** During prototype testing, I identified a potential issue with the verification checkbox remaining selected after editing the odometer value. I asked Lovable to investigate and retested the workflow. The final test confirmed that editing a field resets verification and disables submission until the user confirms the updated information again.
+- **My prototype, as a link or a screenshot (publish or share from your tool; in Lovable that is Share → Share Preview, in Bolt Publish → Web. No share URL? Screenshot the working flow):** https://routelogic-velocity-compliance.lovable.app/?utm_source=chatgpt.com
